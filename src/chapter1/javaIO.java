@@ -1,5 +1,9 @@
 package chapter1;
 
+/**
+ * 
+ * @author jieping
+ */
 import java.util.Scanner;
 
 public class javaIO
