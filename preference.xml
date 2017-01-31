@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE preferences SYSTEM "http://java.sun.com/dtd/preferences.dtd">
+<preferences EXTERNAL_XML_VERSION="1.0">
+  <root type="user">
+    <map/>
+    <node name="com">
+      <map/>
+      <node name="horstman">
+        <map/>
+        <node name="corejava">
+          <map>
+            <entry key="left" value="618"/>
+            <entry key="top" value="194"/>
+            <entry key="width" value="300"/>
+            <entry key="height" value="142"/>
+            <entry key="title" value="999"/>
+          </map>
+        </node>
+      </node>
+    </node>
+  </root>
+</preferences>
